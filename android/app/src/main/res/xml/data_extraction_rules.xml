@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Saved verses, duas, progress and settings go to her own Google backup, end to end encrypted.
+     The journal and lesson notes never leave the phone. Translations download again. -->
+<data-extraction-rules>
+    <cloud-backup disableIfNoEncryptionCapabilities="true">
+        <include domain="sharedpref" path="library.xml" />
+        <include domain="sharedpref" path="prefs.xml" />
+    </cloud-backup>
+    <device-transfer>
+        <include domain="sharedpref" path="library.xml" />
+        <include domain="sharedpref" path="prefs.xml" />
+    </device-transfer>
+</data-extraction-rules>

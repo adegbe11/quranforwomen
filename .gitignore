@@ -1,0 +1,19 @@
+# Xcode
+*.xcodeproj/
+xcuserdata/
+DerivedData/
+build/
+*.xcworkspace/
+.DS_Store
+
+# Android signing and builds
+keystore.properties
+*.jks
+local.properties
+.gradle/
+.kotlin/
+# Large media and releases
+release/
+film/out/
+film/clips/
+film/vo_cache/

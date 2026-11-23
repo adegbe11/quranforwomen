@@ -1,0 +1,1421 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "menstruation-and-worship",
+      "section": "Women's guidance",
+      "title": "Menstruation and worship",
+      "body": [
+        "Your period (hayd) is a natural part of the life Allah gave you. It does not make you less loved by Him or less of a Muslim. The Quran mentions it in 2:222, and the Prophet's wives and the women around him asked about it openly.",
+        "While you are on your period, scholars agree on these points.",
+        "Prayer (salah). You do not pray, and you do not make up these prayers later. This is a relief given to you, not a fault in you.",
+        "Fasting. You do not fast. You make up each missed obligatory fast later, one day for each day missed. See the article on fasting for details.",
+        "Tawaf. On Hajj or Umrah you do everything a pilgrim does except walking around the Kaaba (tawaf). Tawaf waits until you are clean and have done ghusl.",
+        "Intimacy. Sexual intercourse is not allowed until the bleeding stops (2:222). Most scholars say ghusl should also be done first. The Hanafi school has a detail here depending on whether bleeding stopped at its maximum length. [CHECK: confirm and word the Hanafi detail.] Affection, sleeping beside each other, and touching other than intercourse are still allowed.",
+        "What you can keep doing. Dhikr, dua, asking forgiveness, sending blessings on the Prophet, listening to the Quran, reading books of tafsir and Islamic learning, giving charity, and being kind to people. You may attend the Eid gathering and its dua, keeping away from the prayer rows themselves.",
+        "Things scholars differ on. Reading the Quran from memory and touching the mushaf are covered in their own article. On staying in the mosque, most scholars of the four schools say a woman on her period should not stay inside the prayer area. Some scholars allow it, especially for a need such as a class, and some allow simply passing through. [CHECK: confirm how to state the positions on entering and passing through the mosque.]",
+        "How long a period can last. Scholars differ. The Hanafi school says at least 3 days and at most 10. The Shafi'i and Hanbali schools say at least one day and night and at most 15 days. The Maliki school sets no minimum for matters of worship and a maximum of 15 days, with details based on a woman's usual habit. [CHECK: confirm these limits and the Maliki habit rule.]",
+        "Bleeding outside these limits, or bleeding that does not stop, is usually treated as non menstrual bleeding (istihada). With istihada you keep praying and fasting. Most scholars say you make a fresh wudu for each prayer time. [CHECK: the Maliki school treats this wudu as recommended rather than required; confirm wording.]",
+        "When it ends. You know your period has ended when the bleeding stops and you see dryness or a clear white discharge. Do ghusl and return to prayer. If it ends before a prayer time is over, pray that prayer. Most of the Maliki, Shafi'i and Hanbali scholars also ask you to pray the prayer that can be joined with it (Dhuhr when it ends in Asr time, Maghrib when it ends in Isha time). The Hanafi school asks only for the current prayer. [CHECK: confirm.]",
+        "Allah wants ease for you (2:185), has not made the religion a hardship (22:78), and does not ask more of anyone than they can carry (2:286). If your bleeding is irregular or confusing, keep a simple record of the dates and ask a trusted local scholar, ideally one who knows women's fiqh well."
+      ],
+      "quranRefs": ["2:222", "2:185", "2:286", "22:78"],
+      "hadithRefs": [
+        "Sahih al-Bukhari 321",
+        "Sahih Muslim 335 (verify number)",
+        "Sahih al-Bukhari 305 (verify number)",
+        "Sahih Muslim 302 (verify number)",
+        "Sahih al-Bukhari 324 (verify number)",
+        "Sahih al-Bukhari 228"
+      ],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "postpartum",
+      "section": "Women's guidance",
+      "title": "Postpartum bleeding (nifas) and worship",
+      "body": [
+        "Nifas is the bleeding that comes after giving birth. The rulings for worship are the same as for a period. You do not pray and do not make up those prayers. You do not fast, and you make up obligatory fasts later. Intercourse waits until the bleeding stops and you have done ghusl. On Hajj or Umrah, tawaf waits.",
+        "How long it lasts. Scholars agree there is no minimum. If the bleeding stops after a few days, do ghusl and return to prayer and fasting. [CHECK: confirm agreement on no minimum.]",
+        "The maximum differs between the schools. The Hanafi and Hanbali schools say 40 days. The Maliki and Shafi'i schools say 60 days. Bleeding after the maximum is treated as istihada, so you pray and fast as normal. [CHECK: confirm these limits.]",
+        "If the bleeding stops before the maximum and then returns, scholars differ on how to treat it. Ask a trusted local scholar about your own case. [CHECK: add the main positions if wanted.]",
+        "Caesarean birth. Most scholars treat bleeding from the womb after a caesarean birth as nifas, in the same way. [CHECK: confirm.]",
+        "Miscarriage. Whether the bleeding after a miscarriage counts as nifas depends on how far the pregnancy had developed. Many scholars say it is nifas if the baby's human form had begun to appear. Otherwise it is treated as a period or as istihada. The schools differ on the details. Please ask a scholar, and be gentle with yourself. A miscarriage is not a punishment and not your fault. [CHECK: confirm wording and the schools' positions.]",
+        "Caring for yourself. The Quran speaks of a mother carrying her child in weakness upon weakness (31:14) and with hardship (46:15). Allah knows what your body has been through, and He does not ask more of you than you can carry (2:286). Rest, eat well, and accept help.",
+        "Your faith in these weeks. You can still make dhikr and dua, even while feeding your baby at night. Short words of remembrance count. If you feel low, anxious, or not like yourself, speak to a doctor and to people you trust. Getting help is not a lack of faith.",
+        "Nursing. The Quran mentions nursing for up to two full years for those who wish to complete it, and it places the mother's provision on the father (2:233)."
+      ],
+      "quranRefs": ["31:14", "46:15", "2:233", "2:286"],
+      "hadithRefs": [
+        "Sunan Abi Dawud 311 · Jami' at-Tirmidhi 139 (verify number and grade)"
+      ],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "ghusl",
+      "section": "Women's guidance",
+      "title": "Ghusl: when it is needed and how to do it",
+      "body": [
+        "Ghusl is a full ritual bath. It is required after janabah (5:6, 4:43), after your period ends, and after postpartum bleeding ends. Allah loves those who purify themselves (2:222).",
+        "Janabah happens after sexual intercourse, and after sexual fluid is released with pleasure, including in a dream if you find fluid when you wake. If you have a dream but find no fluid, ghusl is not required.",
+        "Ghusl on becoming Muslim. Scholars differ on whether this is required or recommended. Either way, it is a good way to begin. [CHECK: confirm how to state the positions.]",
+        "What is required. At the least, water must reach the whole body, including the hair and the skin under it. The schools add some details. The Hanafi and Hanbali schools also require rinsing the mouth and nose. The Maliki school requires rubbing the body with the hand. The Maliki, Shafi'i and Hanbali schools require an intention in the heart. [CHECK: confirm this summary.]",
+        "A full way to do it, following the Sunnah:",
+        "1. Make the intention in your heart to do ghusl.",
+        "2. Say Bismillah.",
+        "3. Wash your hands.",
+        "4. Wash your private parts and remove any impurity.",
+        "5. Make wudu as you would for prayer. Some leave washing the feet until the end.",
+        "6. Pour water over your head three times, making sure it reaches the roots of your hair.",
+        "7. Pour water over the whole body, starting with the right side and then the left.",
+        "8. Wash your feet if you did not wash them earlier.",
+        "Braids. If your hair is braided, you do not have to undo the braids as long as water reaches the roots. Some scholars recommend undoing them for the ghusl after a period. [CHECK: confirm the positions on undoing braids after hayd.]",
+        "After your period. The Prophet taught women to use a little perfume on a piece of cloth or cotton to remove the smell of blood after the ghusl that ends a period.",
+        "Things that block water. Waterproof nail polish and anything that forms a layer on the skin must be removed first. Henna and dye that only colour the skin or hair do not block water.",
+        "If you cannot use water because of illness or because there is none, you may do tayammum with clean earth (4:43, 5:6). Allah does not want hardship for you."
+      ],
+      "quranRefs": ["5:6", "4:43", "2:222"],
+      "hadithRefs": [
+        "Sahih al-Bukhari 248",
+        "Sahih al-Bukhari 249 (verify number)",
+        "Sahih al-Bukhari 282 (verify number)",
+        "Sahih Muslim 330 (verify number)",
+        "Sahih Muslim 332",
+        "Sahih al-Bukhari 314 (verify number)"
+      ],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "wudu",
+      "section": "Women's guidance",
+      "title": "Wudu: how to do it and what breaks it",
+      "body": [
+        "Wudu is the washing you do before prayer and before touching the mushaf. The Quran names its main parts in 5:6: washing the face, washing the arms up to the elbows, wiping the head, and washing the feet up to the ankles. Allah loves those who keep themselves clean (2:222, 9:108).",
+        "A full way to do it, following the Sunnah:",
+        "1. Make the intention in your heart.",
+        "2. Say Bismillah.",
+        "3. Wash your hands up to the wrists, three times.",
+        "4. Rinse your mouth, three times.",
+        "5. Draw water into your nose and blow it out, three times.",
+        "6. Wash your face from the hairline to the chin and from ear to ear, three times.",
+        "7. Wash your right arm up to and including the elbow, then the left, three times each.",
+        "8. Wipe over your head with wet hands once.",
+        "9. Wipe your ears once.",
+        "10. Wash your right foot up to and including the ankle, then the left, three times each.",
+        "The schools differ on which steps are required and which are Sunnah. For example, they differ on the intention, on doing the steps in order, on doing them without a long break, and on how much of the head must be wiped. [CHECK: add a short summary of each school if wanted.]",
+        "Wiping over a headscarf. Most scholars say you must wipe at least part of the head itself, for example by reaching under the front of the scarf. Some scholars, especially in the Hanbali school, allow wiping over a headscarf that is wrapped under the chin, with conditions. [CHECK: confirm.]",
+        "Wiping over socks. All four schools allow wiping over leather socks (khuffs) put on after wudu, for a set time. They differ on ordinary cloth socks. [CHECK: confirm.]",
+        "Nail polish and makeup. Water must reach the skin and nails. Ordinary nail polish blocks water and must be removed before wudu. Scholars differ on newer polishes that claim to let water through. Makeup that forms a layer must be removed. Henna does not block water. [CHECK: confirm wording on breathable polish.]",
+        "What breaks wudu, by agreement: anything leaving the front or back private parts, such as urine, stool, wind or blood; deep sleep; and losing consciousness.",
+        "What the schools differ on. Touching your own private part without a barrier breaks wudu in the Maliki, Shafi'i and Hanbali schools, but not the Hanafi. Skin contact with a non mahram man breaks wudu in the Shafi'i school, breaks it only with desire in the Maliki and Hanbali schools, and does not break it in the Hanafi school. Flowing blood from a wound breaks wudu in the Hanafi school. Eating camel meat breaks wudu in the Hanbali school. [CHECK: confirm each position.]",
+        "Normal vaginal discharge. Most scholars of the four schools say it breaks wudu because it leaves the private part. Some scholars, including some today, say it does not. Scholars also differ on whether it is impure. [CHECK: confirm and word neutrally.]",
+        "Constant discharge or bleeding (istihada). If it does not stop long enough to pray, most scholars say you make wudu after the prayer time begins and pray with it, and it stays valid for that prayer time."
+      ],
+      "quranRefs": ["5:6", "2:222", "9:108"],
+      "hadithRefs": [
+        "Sahih al-Bukhari 135 (verify number)",
+        "Sahih al-Bukhari 228"
+      ],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "salah",
+      "section": "Women's guidance",
+      "title": "Salah for women",
+      "body": [
+        "The five daily prayers are required of every Muslim woman who has reached puberty, except during her period and postpartum bleeding. Prayer has set times (4:103). Allah tells us to guard the prayers (2:238), to pray to remember Him (20:14), and to seek help through patience and prayer (2:45).",
+        "A woman prays in the same way as a man in almost everything. The words, the number of units, and the steps are the same.",
+        "Covering in prayer. A woman covers her whole body in prayer except her face and hands. The Hanafi school also allows the feet to be uncovered. Others say the feet should be covered. [CHECK: confirm positions, including on the forearms and on the hands.] Clothes should be loose and not see through.",
+        "Small differences in posture. The Hanafi school, and some scholars of other schools, teach that a woman keeps her body more drawn together, for example in sujud and when sitting. Other scholars say a woman's posture is the same as a man's. Follow what your teacher or school teaches. [CHECK: confirm.]",
+        "At home or at the mosque. You may pray at home or at the mosque. The Prophet told men not to stop women from going to the mosque. Many scholars say praying at home is better for a woman, and others stress her right to go. Both are valid. [CHECK: confirm wording.]",
+        "Friday prayer (Jumu'ah) is not required of women. If you attend it, it replaces Dhuhr for that day.",
+        "Adhan and iqamah are not required of women. Some scholars recommend a woman say the iqamah quietly. [CHECK: confirm.]",
+        "Leading prayer. Most scholars allow a woman to lead other women in prayer. She stands in the middle of the first row, not in front. The Maliki school does not allow a woman to lead. [CHECK: confirm.]",
+        "Missed prayers. Prayers missed during a period are not made up. Prayers missed at other times are made up. See the article on repentance if you missed many in the past.",
+        "When it is hard. If standing is hard because of illness or late pregnancy, pray sitting. If sitting is hard, pray lying down. On a journey you may shorten and, according to many scholars, join prayers. Allah does not burden anyone beyond what they can bear (2:286).",
+        "Prayer is a meeting with Allah, five times a day. It is also a rest. Even a short prayer said with a present heart is worth holding on to (29:45)."
+      ],
+      "quranRefs": ["4:103", "2:238", "20:14", "2:45", "29:45", "2:286"],
+      "hadithRefs": [
+        "Sunan Abi Dawud 641 (verify number and grade)",
+        "Sahih al-Bukhari 900 (verify number)"
+      ],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "fasting-and-missed-fasts",
+      "section": "Women's guidance",
+      "title": "Fasting and making up missed fasts",
+      "body": [
+        "Fasting in Ramadan is required of every adult Muslim who is able (2:183). Allah wants ease for you, not hardship (2:185).",
+        "Who does not fast. A woman on her period or with postpartum bleeding does not fast, and makes up the days later. A person who is ill or travelling may break the fast and make up the days later (2:184). Pregnant and nursing women are covered in the pregnancy article.",
+        "If your period starts during the day, even shortly before sunset, that day's fast ends and you make it up later.",
+        "If your period ends during the day. Scholars differ on whether you should stop eating for the rest of that day out of respect for Ramadan. The Hanafi and Hanbali schools say yes. The Maliki and Shafi'i schools say it is not required. In all cases you make up that day. [CHECK: confirm.]",
+        "The fast runs from true dawn until sunset (2:187).",
+        "If your period ends before Fajr. Make the intention and fast, even if you only do ghusl after Fajr. The fast is valid. Do ghusl in time for Fajr prayer.",
+        "Making up missed days (qada). Make up one day for each day missed, any time before the next Ramadan. Most scholars say the days do not have to be in a row.",
+        "If you delay past the next Ramadan without a good reason, the Maliki, Shafi'i and Hanbali schools say you make up the days and also feed one poor person for each day. The Hanafi school says you only make up the days. If you had a valid reason for the delay, such as illness, pregnancy or nursing all year, you make them up when you are able. [CHECK: confirm.]",
+        "If you cannot fast at all, because of old age or a long term illness with no expected recovery, you feed one poor person for each day missed (fidya) (2:184). [CHECK: confirm amount guidance to give, or leave it to local scholars.]",
+        "If you do not know how many days you owe. Make your best honest estimate, and make them up a little at a time. Allah knows your effort.",
+        "Pills to delay a period. Many scholars allow this if a doctor says it is safe. Some prefer that a woman leaves her natural cycle as it is. [CHECK: confirm wording.]",
+        "Fasting is about closeness to Allah, not proving strength. Missed days are not a failure. They are part of how Allah made the rules fit your life."
+      ],
+      "quranRefs": ["2:183", "2:184", "2:185", "2:187"],
+      "hadithRefs": [
+        "Sahih Muslim 335 (verify number)",
+        "Sahih al-Bukhari 1926 (verify number)"
+      ],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "quran-during-menstruation",
+      "section": "Women's guidance",
+      "title": "Reading and touching the Quran during your period",
+      "body": [
+        "This is a question many women ask. Scholars have discussed it for centuries, and they differ. There are three separate questions: listening, reciting, and touching.",
+        "Listening. All scholars agree you may listen to the Quran during your period. You may also think about its meaning and read translations and tafsir. The Prophet would recite the Quran while resting his head in the lap of Aisha while she was on her period.",
+        "Reciting from memory. Most scholars of the Hanafi, Shafi'i and Hanbali schools say a woman on her period should not recite the Quran. Many of them allow saying short Quranic words as dua or dhikr, not as recitation, such as Bismillah. The Maliki school allows a woman on her period to recite from memory, especially so she does not forget what she has learned, or to teach and learn. Some other scholars also allow it in general. [CHECK: confirm the positions and the exceptions within each school.]",
+        "Touching the mushaf. The four schools agree that a person without wudu, and a woman on her period, should not touch the mushaf directly. They differ on touching it through a barrier, such as gloves or a separate cover. Some scholars allow this and some do not. The Maliki school makes an allowance for a teacher or student who needs it. A smaller group of scholars allows touching it in general. [CHECK: confirm each school's view on barriers and the teacher and student allowance.]",
+        "The verses often discussed here are 56:77 to 56:79. The last of them says that none touch it except the purified. Scholars differ on whether it refers to the angels and the record kept in heaven, or also to people and the written mushaf. [CHECK: confirm wording.]",
+        "Phones and apps. Many scholars today say a phone or tablet is not a mushaf, so touching the screen is allowed during your period. The question of reciting stays the same as above. [CHECK: confirm.]",
+        "Books of tafsir. Many scholars allow touching books of tafsir where the explanation is more than the Quran text. [CHECK: confirm.]",
+        "What to do. Choose the view of a scholar you trust, and ask them if you are unsure. Whatever view you follow, you are not cut off from the Quran. You can listen to it, learn its meanings, and keep it close to your heart.",
+        "Allah wants ease for you and has not placed hardship on you in the religion (2:185, 22:78)."
+      ],
+      "quranRefs": ["56:77", "56:78", "56:79", "2:185", "22:78"],
+      "hadithRefs": [
+        "Sahih al-Bukhari 297 (verify number)"
+      ],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "pregnancy",
+      "section": "Women's guidance",
+      "title": "Pregnancy and worship",
+      "body": [
+        "The Quran describes a baby growing in the womb stage by stage (23:12 to 23:14), and parents turning to Allah together for a good child (7:189). Your pregnancy is seen by Allah, and so is every hard day of it (31:14, 46:15).",
+        "Prayer. Keep praying as normal. If standing is hard, pray sitting. If sitting is hard, pray lying on your side. You do not need to feel guilty for praying in the way you are able (2:286).",
+        "Bleeding while pregnant. The Hanafi and Hanbali schools say bleeding during pregnancy is not a period, so you keep praying. The Maliki and Shafi'i schools say it can count as a period if it comes like one. Always tell your doctor about any bleeding. [CHECK: confirm positions.]",
+        "Fasting. If fasting may harm you or your baby, you may leave it. Ask your doctor about your own health. The Quran allows those who are ill to make up days later (2:184, 2:185), and the Prophet included pregnant and nursing women in this relief.",
+        "Making up fasts while pregnant or nursing. Scholars differ. The Hanafi school says make up the days only. The Shafi'i and Hanbali schools say make up the days only if you feared for yourself, and make up the days plus feed a poor person for each day if you feared only for the baby. The Maliki school says a pregnant woman makes up the days only and a nursing woman makes up the days and also feeds. Some Companions held that feeding alone is enough. [CHECK: confirm each position.]",
+        "Hajj and Umrah. You may go if your doctor says it is safe.",
+        "Dua for your baby. Make dua for your child, for an easy birth, and for yourself. The wife of Imran made dua for the child in her womb (3:35). Maryam felt the pain of labour (19:23), and Allah comforted her and provided for her (19:24, 19:25).",
+        "Loss. If you lose a pregnancy, it is not a punishment and not your fault. Grief is allowed. Lean on Allah and on the people who love you. For the rulings on bleeding after a miscarriage, see the postpartum article."
+      ],
+      "quranRefs": ["23:12", "23:13", "23:14", "7:189", "31:14", "46:15", "2:286", "2:184", "2:185", "3:35", "19:23", "19:24", "19:25"],
+      "hadithRefs": [
+        "Sunan Abi Dawud 2408 · Jami' at-Tirmidhi 715 (verify number and grade)"
+      ],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "motherhood",
+      "section": "Women's guidance",
+      "title": "Motherhood",
+      "body": [
+        "The Quran honours mothers by name. It speaks of the mother who carried her child in weakness upon weakness (31:14) and gave birth with hardship (46:15). When a man asked the Prophet who most deserves his good company, he said your mother three times, and then your father.",
+        "You do not need to be a perfect mother. You need to do your best and keep turning to Allah. Children learn faith from love, patience and example more than from lectures.",
+        "Your worship as a mother. Your days may be full and your sleep broken. Pray on time as best you can, even if your prayers are short. Say dhikr while you feed, rock or carry your child. Caring for your family with a good intention is itself worship.",
+        "Nursing. The Quran mentions nursing for up to two years for those who wish to complete it, and makes the father responsible for the mother's provision (2:233). It also allows weaning earlier by mutual agreement, and other ways of feeding. No mother should be harmed because of her child.",
+        "You are not alone in this. The Prophet helped with work in his home. Ask for help from your husband, family and community, and accept it.",
+        "Women in the Quran. The mother of Musa was told not to fear and not to grieve (28:7). The wife of Imran gave her unborn child to Allah's service (3:35). Their stories show that Allah sees a mother's worry and carries what she cannot.",
+        "Duas for your family. Ask Allah for spouses and children who bring comfort to your eyes (25:74), and that you and your children keep up the prayer (14:40).",
+        "If you are waiting for a child, raising someone else's child, or have lost a child, your love and your effort are seen by Allah as well. Your worth is not measured by how many children you have."
+      ],
+      "quranRefs": ["31:14", "46:15", "2:233", "28:7", "3:35", "25:74", "14:40"],
+      "hadithRefs": [
+        "Sahih al-Bukhari 5971 · Sahih Muslim 2548",
+        "Sahih al-Bukhari 676 (verify number)"
+      ],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "marriage",
+      "section": "Women's guidance",
+      "title": "Marriage",
+      "body": [
+        "Allah created us from one soul and made from it its mate (4:1). He describes marriage as a place of calm, with love and mercy between husband and wife (30:21). Husband and wife are like clothing for each other, close and protective (2:187). [CHECK: confirm this short explanation of the clothing image.]",
+        "Your consent. A woman's consent is required for her marriage. The Prophet said a woman is not married without her permission, and he cancelled a marriage that a woman's father arranged against her will.",
+        "The wali. Most scholars of the Maliki, Shafi'i and Hanbali schools say a woman's marriage needs her guardian (wali), usually her father. The Hanafi school says an adult woman may marry herself to a suitable husband, though involving her family is better. [CHECK: confirm wording.]",
+        "The mahr. The mahr is a gift the husband gives the wife at marriage. It is her own property and her right (4:4).",
+        "Living together. Allah tells husbands to live with their wives in kindness (4:19), and says wives have rights similar to the duties expected of them, in a reasonable way (2:228). The Prophet said the best of you are those who are best to their families.",
+        "Disagreements. Every marriage has hard days. The Quran suggests bringing in a fair person from each family to help a couple make peace (4:35). A good dua for any marriage asks Allah to make our spouses and children a comfort to our eyes (25:74).",
+        "Harm is not allowed. Islam does not allow a husband to harm his wife (2:231). If you are being hurt, threatened or controlled, you have the right to be safe. Seek help from people you trust, a scholar, or local services. Doing this is not against your faith.",
+        "Ending a marriage. A woman has the right to ask for a divorce. One way is khul', where she returns the mahr or part of it to end the marriage (2:229). [CHECK: add any detail on judicial divorce and conditions.]",
+        "[CHECK: decide whether this article should address 4:34 and its interpretations, and how.]"
+      ],
+      "quranRefs": ["30:21", "2:187", "4:1", "4:4", "4:19", "2:228", "4:35", "2:231", "2:229", "25:74"],
+      "hadithRefs": [
+        "Sahih al-Bukhari 5136",
+        "Sahih al-Bukhari 5138 (verify number)",
+        "Jami' at-Tirmidhi 3895 (verify number)"
+      ],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "womens-rights",
+      "section": "Women's guidance",
+      "title": "Women's rights in Islam",
+      "body": [
+        "Men and women come from one soul (4:1). The most noble in Allah's sight is the one with the most taqwa, not a man over a woman or a woman over a man (49:13).",
+        "Equal in worship and reward. Allah names Muslim women alongside Muslim men in every good quality (33:35). He does not let the good work of anyone be lost, male or female (3:195), and promises a good life to every believer who does good, male or female (16:97).",
+        "The right to life. The Quran condemned the old practice of burying baby girls alive (81:8, 81:9).",
+        "The right to own and earn. A woman owns what she earns (4:32). She has a set share of inheritance (4:7). Her mahr is hers (4:4). She does not have to spend her own money on the household. [CHECK: confirm wording on financial maintenance.]",
+        "The right to choose in marriage. Her consent is required for her marriage. See the marriage article.",
+        "The right to kind treatment. Husbands are told to live with their wives in kindness (4:19). Wives have rights similar to what is expected of them (2:228).",
+        "The right to leave a marriage. A woman may ask for divorce through khul' (2:229) or through a judge.",
+        "The right to learn. Women in the Prophet's time asked him for a day to teach them, and he gave them one. Seeking knowledge is for every Muslim.",
+        "The right to worship in the mosque. The Prophet told men not to stop women from going to the mosque.",
+        "A voice that is heard. Allah heard the woman who came to the Prophet to argue her case about her husband, and revealed verses about it (58:1). Women gave their own pledge to the Prophet (60:12).",
+        "Some rulings are different for men and women, such as some inheritance shares. Scholars explain these within the whole system of duties, where men carry the cost of the household. [CHECK: confirm wording.]",
+        "Some customs in Muslim cultures do not match what Islam teaches. When you are unsure, look to the Quran and to trusted scholars."
+      ],
+      "quranRefs": ["4:1", "49:13", "33:35", "3:195", "16:97", "81:8", "81:9", "4:32", "4:7", "4:4", "4:19", "2:228", "2:229", "58:1", "60:12"],
+      "hadithRefs": [
+        "Sahih al-Bukhari 5136",
+        "Sahih al-Bukhari 101 (verify number)",
+        "Sahih al-Bukhari 900 (verify number)"
+      ],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "modesty",
+      "section": "Women's guidance",
+      "title": "Modesty and hijab",
+      "body": [
+        "Modesty (haya) is part of faith for men and women. The Quran tells believing men to lower their gaze and guard their chastity first (24:30), and then gives the same instruction to believing women (24:31).",
+        "Modesty is more than clothing. It is in how we speak, how we look at others, and how we treat people. The Quran calls the clothing of taqwa the best clothing (7:26).",
+        "What the verses say about dress. Believing women are told to draw their head coverings over their chests and not to show their adornment except to certain close relatives (24:31). They are also told to draw their outer garments over themselves (33:59).",
+        "What scholars say. The four schools agree that, in front of men who are not close relatives (mahram), a woman covers her body and hair, and that clothes should be loose and not see through. They differ on the face and hands. Many scholars of the Hanafi and Maliki schools say covering the face is not required. Many scholars of the Shafi'i and Hanbali schools say it is. Within each school there are also other views. [CHECK: confirm how to state these positions, including on the feet.]",
+        "Who you do not need to cover in front of. Your husband, and the close relatives listed in 24:31, such as your father, sons, brothers, and nephews, and other women. [CHECK: confirm whether to mention scholarly discussion of non Muslim women.]",
+        "Older women. The Quran gives older women who are past the age of marriage some ease in dress, while still saying modesty is better (24:60).",
+        "If wearing hijab is hard for you. Many women find it a journey. Struggling does not make you a bad Muslim. Keep your prayer, keep asking Allah for help, and take steps you can keep. Allah is Forgiving and Merciful (33:59).",
+        "Be kind to other women whatever they wear. Each person carries her own story."
+      ],
+      "quranRefs": ["24:30", "24:31", "7:26", "33:59", "24:60"],
+      "hadithRefs": [
+        "Sahih al-Bukhari 9"
+      ],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "repentance",
+      "section": "Women's guidance",
+      "title": "Repentance and starting again",
+      "body": [
+        "Everyone makes mistakes. Allah tells His servants who have wronged themselves not to lose hope in His mercy, because He forgives all sins (39:53).",
+        "Allah loves those who turn back to Him (2:222). Whoever does wrong and then asks Allah's forgiveness will find Him Forgiving and Merciful (4:110). He accepts repentance from His servants (42:25).",
+        "How to repent (tawbah). Stop the wrong. Feel sorry for it. Decide sincerely not to go back to it. If it involved someone else's rights, such as money or harm to a person, put it right as far as you can.",
+        "Allah praises those who, after doing wrong, remember Him, ask forgiveness, and do not knowingly persist (3:135). He calls believers to sincere repentance (66:8), and He forgives again and again whoever repents, believes and does good (20:82).",
+        "If you slip again. Repent again. There is no limit to how many times you can return to Allah. The door stays open.",
+        "Your mistakes are between you and Allah. You do not need to tell people what you did. Keep it private and keep going.",
+        "Good deeds help. Prayer and good deeds wipe away wrongs (11:114). For those who repent, believe and do good, Allah can replace their bad deeds with good ones (25:70).",
+        "Coming back to prayer after a long time. Start with today's prayers. Scholars differ on prayers missed in the past. Most scholars of the four schools say you should make them up, little by little, as you are able. Some scholars say sincere repentance and many extra voluntary prayers are enough. Ask a scholar you trust. [CHECK: confirm wording.]",
+        "Feeling ashamed is natural, but do not let it keep you away from Allah. Coming back to Him is exactly what He asks of you."
+      ],
+      "quranRefs": ["39:53", "2:222", "4:110", "42:25", "3:135", "11:114", "25:70", "20:82", "66:8"],
+      "hadithRefs": [
+        "Sahih Muslim 2759 (verify number)",
+        "Jami' at-Tirmidhi 2499 (verify number and grade)"
+      ],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "life-stages",
+      "section": "Women's guidance",
+      "title": "Life stages",
+      "body": [
+        "Allah created us from weakness, then gave strength, then weakness again in old age (30:54, 22:5). Every stage has its own worship and its own ease.",
+        "Girlhood and puberty. A girl becomes responsible for prayer, fasting and the other duties when she reaches puberty. For girls this is usually marked by her first period. [CHECK: add other signs and the age limit used by the schools.] This is a good time to learn wudu, ghusl, and the rulings on periods, gently and without shame.",
+        "Young adulthood. A time for learning, building friendships, studying and working. Your good deeds count fully, whether you are married or not (16:97).",
+        "Marriage. See the marriage article. Marriage is meant to bring calm, love and mercy (30:21).",
+        "Motherhood. See the pregnancy, postpartum and motherhood articles.",
+        "Women who do not marry or have children. Your worth before Allah is your faith and your deeds, not your status (49:13). Maryam is among the most honoured women in the Quran.",
+        "Menopause. When your periods stop for good, you pray and fast every day. Scholars differ on bleeding that comes after menopause and at what age it is no longer counted as a period. Speak to a doctor about any such bleeding, and ask a scholar about the ruling. [CHECK: confirm the schools' positions.] The Quran gives older women some ease in dress (24:60).",
+        "Widowhood. A widow waits four months and ten days before she may remarry (2:234). [CHECK: add the rules for this waiting period (iddah) if wanted.]",
+        "Older age. The Quran tells children to treat their elderly parents with kindness and humility (17:23, 17:24). If your body becomes weaker, worship as you are able. Allah does not ask more than you can do (2:286).",
+        "Loss and grief come at every age. Those who are patient say that we belong to Allah and to Him we return (2:155, 2:156)."
+      ],
+      "quranRefs": ["30:54", "22:5", "16:97", "30:21", "49:13", "24:60", "2:234", "17:23", "17:24", "2:286", "2:155", "2:156"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "new-muslim-guide",
+      "section": "Women's guidance",
+      "title": "A guide for new Muslim women",
+      "body": [
+        "Welcome. You do not need to learn everything at once. Islam was given step by step, and you can learn it step by step too. Allah wants to make things light for you (4:28) and has not placed hardship on you in the religion (22:78).",
+        "Your past. When you become Muslim, your past is forgiven. Allah can even replace past wrongs with good (25:70). Do not let your past keep you from Him (39:53).",
+        "The core of belief. Allah is One (112:1). He has no partner and nothing is like Him. Muhammad is His final messenger.",
+        "The five pillars are the shahada, the five daily prayers, zakah, fasting in Ramadan, and Hajj once in a lifetime for those who are able.",
+        "Where to start. Learn wudu, then the prayer. Learn Surah al-Fatihah. While you are learning, you can pray using what you know, and follow along with others. [CHECK: give clear guidance on what a new Muslim says in prayer before learning al-Fatihah.]",
+        "Ghusl. Many scholars recommend or require ghusl when you become Muslim. See the ghusl article.",
+        "Hijab and modesty. Many new Muslim women grow into hijab over time. See the modesty article. Take steps you can keep.",
+        "Your family. Keep treating your family with kindness, even if they are not Muslim (31:15, 60:8). Your example can say more than words.",
+        "Your name. You do not have to change your name, unless its meaning is against Islam. [CHECK: confirm.]",
+        "Marriage. If you are married to a non Muslim man, or are thinking about marriage, please speak to a trusted scholar about your situation. [CHECK: decide how much detail to give here.]",
+        "There is no compulsion in religion (2:256). Your faith is your own. Find a kind teacher and a welcoming community, ask questions, and be patient with yourself."
+      ],
+      "quranRefs": ["4:28", "22:78", "25:70", "39:53", "112:1", "31:15", "60:8", "2:256"],
+      "hadithRefs": [
+        "Sahih al-Bukhari 8",
+        "Sahih Muslim 121 (verify number)"
+      ],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "faq",
+      "section": "Women's guidance",
+      "title": "Frequently asked questions",
+      "body": [
+        "Can I make dua and dhikr during my period? Yes. All scholars agree you can. Allah is near and answers those who call on Him (2:186).",
+        "Do I make up prayers I missed during my period? No.",
+        "Do I make up fasts I missed during my period? Yes, one day for each day missed, before the next Ramadan (2:184).",
+        "Can I read the Quran during my period? Scholars differ on reciting it and on touching the mushaf. All agree you may listen to it. See the article on reading and touching the Quran during your period.",
+        "Can I use a Quran app during my period? Many scholars today say a phone is not a mushaf, so touching it is fine. Reciting is the same question as above. [CHECK: confirm.]",
+        "My period ended before Fajr in Ramadan, but I did ghusl after Fajr. Is my fast valid? Yes, if the bleeding had stopped before Fajr and you intended to fast.",
+        "I need ghusl after intimacy and Fajr has come in Ramadan. Is my fast valid? Yes. Do ghusl and pray. The fast is valid.",
+        "Is brown or yellow discharge part of my period? Many scholars say it counts as part of the period if it comes during your usual period days or joined to the bleeding, but not after you have become clean. Scholars differ on the details. [CHECK: confirm.]",
+        "Does nail polish affect wudu? Yes. Ordinary nail polish stops water reaching the nail, so it must be removed before wudu and ghusl, because the nails must be washed (5:6). Henna does not block water.",
+        "Can I go to the Eid prayer during my period? Yes, you may go to the gathering and join the dua, keeping away from the prayer rows.",
+        "Can I go to the mosque during my period? Scholars differ. Most say you should not stay in the prayer area. Some allow it. See the article on menstruation and worship.",
+        "Should I pray if I am not sure whether my period has ended? Check for the signs of purity, dryness or white discharge. If you are often unsure, keep a record of your cycle and ask a scholar.",
+        "I have missed many prayers in past years. What do I do? Start with today. Scholars differ on making up the past. See the article on repentance.",
+        "Is my worship less valuable because I am a woman? No. Allah does not let the good work of anyone be lost, male or female (3:195)."
+      ],
+      "quranRefs": ["2:186", "2:184", "5:6", "3:195"],
+      "hadithRefs": [
+        "Sahih al-Bukhari 321",
+        "Sahih al-Bukhari 326 (verify number)",
+        "Sahih al-Bukhari 1926 (verify number)"
+      ],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "glossary",
+      "section": "Women's guidance",
+      "title": "Glossary of terms",
+      "body": [
+        "Allah: the One God, Creator of everything.",
+        "Ayah: a verse of the Quran.",
+        "Awrah: the parts of the body that must be covered.",
+        "Dhikr: remembering Allah, often by repeating short phrases of praise.",
+        "Dua: asking Allah for something, in any language.",
+        "Fidya: feeding a poor person for each fast that a person cannot make up.",
+        "Fiqh: the study of Islamic rulings.",
+        "Ghusl: a full ritual bath that washes the whole body.",
+        "Hadith: a report of what the Prophet said, did or approved.",
+        "Hajj: the pilgrimage to Makkah, required once in a lifetime for those able.",
+        "Haya: modesty and a sense of shame before doing wrong.",
+        "Hayd: menstruation, a woman's monthly period.",
+        "Hijab: a covering, often used to mean a woman's headscarf and modest dress.",
+        "Iddah: the waiting period after divorce or the death of a husband.",
+        "Istighfar: asking Allah for forgiveness.",
+        "Istihada: bleeding that is not a period or postpartum bleeding.",
+        "Janabah: the state after intercourse or the release of sexual fluid, which needs ghusl.",
+        "Juz: one of the thirty parts the Quran is divided into.",
+        "Khimar: a head covering.",
+        "Khul': a divorce asked for by the wife, usually by returning her mahr.",
+        "Madhhab: a school of Islamic law, such as the Hanafi, Maliki, Shafi'i or Hanbali school.",
+        "Mahr: the gift a husband gives his wife at marriage. It belongs to her.",
+        "Mahram: a close male relative a woman can never marry, such as her father, son or brother.",
+        "Mushaf: a written copy of the Quran.",
+        "Nifas: bleeding after childbirth.",
+        "Qada: making up a missed prayer or fast.",
+        "Qiblah: the direction of the Kaaba in Makkah, faced in prayer.",
+        "Sabr: patience.",
+        "Salah: the ritual prayer, prayed five times a day.",
+        "Shahada: the declaration of faith that there is no god but Allah and Muhammad is His messenger.",
+        "Shukr: gratitude.",
+        "Sunnah: the way of the Prophet. Also used for acts that are recommended but not required.",
+        "Surah: a chapter of the Quran.",
+        "Tafsir: explanation of the meaning of the Quran.",
+        "Taqwa: awareness of Allah that guides how you live.",
+        "Tawaf: walking around the Kaaba seven times, as worship.",
+        "Tawakkul: trusting Allah after doing your part.",
+        "Tawbah: repentance, turning back to Allah.",
+        "Tayammum: dry purification with clean earth when water cannot be used.",
+        "Umrah: the lesser pilgrimage to Makkah, which can be done at any time of year.",
+        "Wali: a woman's guardian in marriage, usually her father.",
+        "Wudu: the washing of certain parts of the body before prayer.",
+        "Zakah: the yearly charity due on wealth above a set amount."
+      ],
+      "quranRefs": [],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+
+    {
+      "id": "devotional-01-near",
+      "section": "Devotionals",
+      "title": "He is near",
+      "body": [
+        "In this verse, Allah answers a question before it is fully asked. When people ask about Him, He says He is near, and He answers the one who calls on Him.",
+        "We often feel we must be at our best before we speak to Allah. We wait to be calmer, cleaner, or more deserving. But the verse does not set conditions like these. It simply says He is near and He answers.",
+        "You can talk to Allah in the middle of washing dishes, in the car, or lying awake at night. You can use your own language and your own words. He hears it all.",
+        "Reflect: What have you been holding back from asking Allah because you felt you were not ready?",
+        "Today: Choose one quiet moment and tell Allah, in your own words, the one thing weighing on you most."
+      ],
+      "quranRefs": ["2:186"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-02-hearts-at-rest",
+      "section": "Devotionals",
+      "title": "Where hearts find rest",
+      "body": [
+        "This verse tells us that hearts find rest in the remembrance of Allah. Not in having everything sorted. Not in a perfect day. In remembering Him.",
+        "Many of us look for rest in scrolling, in planning, or in trying to control every detail. These can keep the mind busy without letting the heart settle.",
+        "Remembering Allah can be very small. A SubhanAllah while you wait. An Alhamdulillah when something goes right. A quiet Astaghfirullah when something goes wrong. Each one turns the heart back toward the One who holds it.",
+        "Reflect: When during your day does your heart feel most restless?",
+        "Today: At that restless moment, stop for one minute and repeat a phrase of remembrance slowly, paying attention to its meaning."
+      ],
+      "quranRefs": ["13:28"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-03-with-hardship",
+      "section": "Devotionals",
+      "title": "Ease comes with it",
+      "body": [
+        "This verse says that with hardship comes ease. It is repeated in the very next verse, as if to make sure we hear it.",
+        "Notice the word with. Ease does not only come after the hardship is over. It travels alongside it. In a hard season there are still small mercies: a kind message, a good night's sleep, a moment of laughter, a prayer that brings calm.",
+        "This does not mean pain is not real. It means pain is not the whole picture. Allah has placed ease inside the same days.",
+        "Reflect: In the hardest thing you are facing now, where has ease already appeared, even in a small way?",
+        "Today: Write down three small mercies from this week, and thank Allah for each one by name."
+      ],
+      "quranRefs": ["94:5"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-04-remember-me",
+      "section": "Devotionals",
+      "title": "Remembered by Allah",
+      "body": [
+        "In this verse Allah says that if we remember Him, He will remember us. Think about that. The Lord of everything promises to remember you.",
+        "There are seasons when a woman can feel unseen. Her work at home goes unnoticed. Her care for others is taken for granted. Her tiredness is hidden behind a smile.",
+        "This verse reminds you that you are never forgotten by the One who matters most. Every time you turn to Him, He turns to you. The verse also asks for gratitude, which keeps the heart soft and awake.",
+        "Reflect: Where do you feel unseen right now, and how does it feel to know Allah remembers you?",
+        "Today: Each time you finish a task that no one will thank you for, say Alhamdulillah and offer it to Allah."
+      ],
+      "quranRefs": ["2:152"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-05-do-not-despair",
+      "section": "Devotionals",
+      "title": "Do not lose hope",
+      "body": [
+        "This verse speaks to people who have wronged themselves. It does not scold them. It calls them My servants and tells them not to lose hope in Allah's mercy, because He forgives all sins.",
+        "Sometimes the hardest part of a mistake is the voice afterwards that says you are too far gone. This verse answers that voice directly. No one is too far for Allah's mercy.",
+        "Repentance is not about hating yourself. It is about turning around and walking back toward the One who is waiting for you.",
+        "Reflect: Is there something you have stopped asking Allah to forgive because you think it is too big?",
+        "Today: Sit for two minutes, ask Allah sincerely to forgive that one thing, and then let yourself believe that He heard you."
+      ],
+      "quranRefs": ["39:53"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-06-not-lost",
+      "section": "Devotionals",
+      "title": "Nothing you do is lost",
+      "body": [
+        "In this verse Allah says He will not let the work of any worker be lost, whether male or female, and that we are of one another.",
+        "Much of a woman's work is quiet. Caring for a parent. Raising children. Supporting friends. Studying late. Working a job that no one praises. It is easy to feel that none of it counts.",
+        "Allah says it all counts. He sees it, and He does not lose any of it. Your efforts are not measured by applause but by the One who sees everything.",
+        "Reflect: Which part of your daily work feels most invisible to you?",
+        "Today: Before you start that work, make a quiet intention that you are doing it for Allah, and notice how it changes the way you feel about it."
+      ],
+      "quranRefs": ["3:195"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-07-good-life",
+      "section": "Devotionals",
+      "title": "A good life",
+      "body": [
+        "This verse promises a good life to anyone who does good while believing, male or female.",
+        "A good life here does not have to mean a life with no problems. Many people with very little have peace, and many with a lot have none. A good life is one where the heart is connected to Allah, the conscience is clear, and the days have meaning.",
+        "The verse asks for two things: faith and good deeds. Both can be very ordinary. A kind word, an honest answer, a prayer on time, a visit to someone who is lonely.",
+        "Reflect: What would a good life look like for you, if you measured it by Allah's standard instead of other people's?",
+        "Today: Do one good deed that no one will see, and leave it between you and Allah."
+      ],
+      "quranRefs": ["16:97"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-08-named-together",
+      "section": "Devotionals",
+      "title": "Named alongside them",
+      "body": [
+        "This verse lists the qualities of believers, and every time it names men, it names women too. Muslim men and Muslim women. Patient men and patient women. Men and women who remember Allah often.",
+        "It is a long list, and it is clear on purpose. Women are not an afterthought in Allah's book. Your faith, your patience, your charity, your fasting, and your remembrance are named and honoured.",
+        "Look at the list again and you may see yourself in more places than you expected. Each quality is something you can grow in, a little at a time.",
+        "Reflect: Which quality in this verse do you most want to grow in this year?",
+        "Today: Read the meaning of the verse slowly, choose one quality, and do one small act that builds it."
+      ],
+      "quranRefs": ["33:35"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-09-maryam",
+      "section": "Devotionals",
+      "title": "Do not grieve",
+      "body": [
+        "Maryam was alone, in pain, and afraid of what people would say. In the verse before this one she wished she had been forgotten. Then she was called and told not to grieve, because her Lord had placed a stream beneath her.",
+        "Allah did not ask her to be strong first. He met her in her weakness and gave her what she needed: water, food from the palm tree, and comfort.",
+        "If you are in a season of pain or fear, Allah sees you there too. He knows exactly what you need, and He can provide it from places you did not expect.",
+        "Reflect: What do you need from Allah most right now, and have you asked Him for it plainly?",
+        "Today: Ask Allah for that one thing in your own words, and then look for one small provision He has already given you today."
+      ],
+      "quranRefs": ["19:24"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-10-mother-of-musa",
+      "section": "Devotionals",
+      "title": "A mother's fear",
+      "body": [
+        "The mother of Musa was told to nurse her baby, and when she feared for him, to place him in the river. She was told not to fear and not to grieve, and that he would be returned to her.",
+        "Imagine the strength it took. Every part of her wanted to hold on. Yet she trusted Allah with the most precious thing she had, and Allah kept His promise.",
+        "Mothers carry many fears for their children. This story does not say the fear is wrong. It shows that Allah speaks to a mother's fear with care, and that her child is safest in His hands.",
+        "Reflect: What fear for someone you love are you carrying alone?",
+        "Today: Make a sincere dua for that person by name, and consciously place them in Allah's care."
+      ],
+      "quranRefs": ["28:7"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-11-from-allah",
+      "section": "Devotionals",
+      "title": "It is from Allah",
+      "body": [
+        "As a young girl, Maryam was in the care of Zakariyya. Each time he came to her, he found she had provision. When he asked where it came from, she simply said it was from Allah, who provides for whom He wills without measure.",
+        "Her answer is short and calm. She did not credit herself or worry about how it arrived. She knew the source.",
+        "Our provision comes in many forms: food, health, friends, knowledge, a quiet hour. It is easy to think we earned it all ourselves. This verse invites us to see the Giver behind every gift.",
+        "Reflect: What blessing in your life have you been treating as if it came only from your own effort?",
+        "Today: When you eat your next meal, pause before the first bite and remind yourself where it truly came from."
+      ],
+      "quranRefs": ["3:37"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-12-asiyah",
+      "section": "Devotionals",
+      "title": "A home near Him",
+      "body": [
+        "The wife of Pharaoh lived in a palace, married to one of the most powerful and cruel men in history. Allah gives her as an example for all believers. Her dua was to have a house near Allah in Paradise, and to be saved from wrongdoing.",
+        "She could not change her husband or her surroundings. But she could choose where her heart lived. She chose Allah.",
+        "Some women live in situations they cannot easily change. This verse honours the faith that keeps going there. It reminds us that our true home is with Allah, and that no one can take that from us.",
+        "Reflect: What part of your situation can you not change, and what part of your heart can you still give to Allah?",
+        "Today: Make her dua your own today, asking Allah for a home near Him."
+      ],
+      "quranRefs": ["66:11"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-13-allah-heard-her",
+      "section": "Devotionals",
+      "title": "Allah heard her",
+      "body": [
+        "This verse begins with a remarkable statement. Allah heard the woman who came to the Prophet to argue her case about her husband and who complained to Allah. Allah then revealed verses about her situation.",
+        "She was not silent and she was not dismissed. She spoke up, and she took her complaint to Allah. And Allah answered from above the heavens.",
+        "Your voice matters to Allah. You can bring Him your complaints, your questions, and your sense of unfairness. He hears it all, and He is the most just.",
+        "Reflect: Is there something unfair in your life that you have not yet brought to Allah?",
+        "Today: Tell Allah honestly about it, without dressing it up. Then ask Him to show you a fair way forward."
+      ],
+      "quranRefs": ["58:1"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-14-not-forsaken",
+      "section": "Devotionals",
+      "title": "You are not forsaken",
+      "body": [
+        "This verse was revealed to the Prophet at a time when revelation had paused and he was hurting. Allah told him that his Lord had not left him and was not displeased with him.",
+        "If the most beloved of Allah's creation could feel this way and be comforted, we can take comfort too. There are times when prayer feels dry and Allah feels far. That feeling is not proof that He has left.",
+        "Keep showing up. Keep praying, even when it feels empty. Seasons change, and the closeness returns. [CHECK: confirm the context of revelation as described.]",
+        "Reflect: When did you last feel far from Allah, and what helped you come back?",
+        "Today: Read the whole of Surah ad-Duha slowly, with its meaning, and let it speak to you."
+      ],
+      "quranRefs": ["93:3"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-15-within-capacity",
+      "section": "Devotionals",
+      "title": "Within your capacity",
+      "body": [
+        "This verse begins by saying that Allah does not ask any soul for more than it can bear. It ends with a dua asking Allah not to place on us a burden we cannot carry, and to pardon, forgive and have mercy on us.",
+        "Some days your capacity is small. You are tired, unwell, grieving, or stretched thin. Allah knows your capacity better than anyone, and He asks you only for what fits inside it.",
+        "This is not a lower standard. It is a merciful one. Doing what you can, sincerely, is what is asked of you.",
+        "Reflect: Where are you asking more of yourself than Allah is asking of you?",
+        "Today: Choose one thing to let go of or simplify this week, and ask Allah to bless what you can still do."
+      ],
+      "quranRefs": ["2:286"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-16-call-upon-me",
+      "section": "Devotionals",
+      "title": "Call on Me",
+      "body": [
+        "In this verse your Lord says to call on Him, and He will respond. It is an invitation, and a promise.",
+        "We sometimes treat dua as a last step, after we have tried everything else. But this verse places it first. Before the plan, before the worry, before the phone call, we can turn to Him.",
+        "A response from Allah does not always look like what we asked for. Sometimes He gives it, sometimes He gives something better, and sometimes He turns away a harm we never saw. Every sincere dua is heard.",
+        "Reflect: What do you usually do first when something goes wrong, and where does dua come in that list?",
+        "Today: The next time a worry comes up, make a short dua about it before doing anything else."
+      ],
+      "quranRefs": ["40:60"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-17-closer",
+      "section": "Devotionals",
+      "title": "Closer than you think",
+      "body": [
+        "This verse says Allah knows what our souls whisper to us, and that He is closer to us than our own jugular vein.",
+        "We all have thoughts we never say out loud. Worries, hopes, doubts, quiet wishes. Allah knows each of them. Nothing in you is hidden from Him, and nothing in you is too small for Him to care about.",
+        "This can feel uncomfortable at first. But it is also a deep comfort. You never have to explain yourself fully to Allah. He already understands.",
+        "Reflect: What is something you have never said out loud, that you can bring to Allah?",
+        "Today: Spend a few quiet minutes after one prayer simply sitting with Allah, knowing He is close, without needing to find the right words."
+      ],
+      "quranRefs": ["50:16"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-18-hear-and-see",
+      "section": "Devotionals",
+      "title": "I hear and I see",
+      "body": [
+        "Musa and Harun were about to go to Pharaoh, and they were afraid. Allah told them not to fear, because He was with them, hearing and seeing.",
+        "Allah did not take the difficult task away. He did not tell them Pharaoh would be easy. He told them they would not face it alone.",
+        "You may have a hard conversation ahead, a test, a meeting, or a day you are dreading. The same Lord who was with Musa and Harun hears and sees you too. Courage does not mean you stop feeling afraid. It means you go forward knowing who is with you.",
+        "Reflect: What are you facing soon that makes you afraid?",
+        "Today: Before you face it, remind yourself that Allah hears and sees, and ask Him to be with you in it."
+      ],
+      "quranRefs": ["20:46"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-19-love-and-mercy",
+      "section": "Devotionals",
+      "title": "Love and mercy at home",
+      "body": [
+        "This verse names marriage as one of Allah's signs. He created spouses so that we may find calm in each other, and He placed love and mercy between them.",
+        "Love is often the feeling. Mercy is often the choice. On good days love carries a home. On hard days it is mercy that keeps it gentle: forgiving a sharp word, noticing tiredness, giving the benefit of the doubt.",
+        "Whether you are married, hoping to marry, or living with family, the same idea applies. Homes are kept warm by small acts of mercy.",
+        "Reflect: Who in your home could use a little more mercy from you this week?",
+        "Today: Do one small, kind thing for that person without being asked, and make dua for them by name."
+      ],
+      "quranRefs": ["30:21"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-20-which-favours",
+      "section": "Devotionals",
+      "title": "Which of His favours",
+      "body": [
+        "Surah ar-Rahman repeats one question many times, asking which of the favours of your Lord you would deny. This verse is its first appearance.",
+        "The surah moves through creation: the sun and moon, the sky and the balance, fruit and grain, rivers and seas. After each one the question comes again, like a gentle tap on the shoulder.",
+        "We usually notice blessings only when they are gone. Breath, sight, a working body, a safe place to sleep. This verse invites us to notice them now, while we still have them, and to thank the One who gave them.",
+        "Reflect: Which blessing do you use every day without ever thinking about it?",
+        "Today: Listen to Surah ar-Rahman, and each time you hear the repeated question, name one blessing in your life."
+      ],
+      "quranRefs": ["55:13"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-21-parents",
+      "section": "Devotionals",
+      "title": "Mercy for your parents",
+      "body": [
+        "This verse tells us to lower the wing of humility to our parents out of mercy, and to pray for Allah to have mercy on them as they cared for us when we were small.",
+        "Our relationships with our parents are not always simple. Some are close, some are strained, some parents have passed away. The dua in this verse fits all of these. It asks Allah to give them the mercy we may not always be able to give.",
+        "Remembering how we were cared for when we were small can soften the heart, even when things are difficult now.",
+        "Reflect: What is one thing your parents did for you that you have never thanked them for?",
+        "Today: Make this dua for your parents after one prayer. If you can, call or visit one of them, or give charity on their behalf."
+      ],
+      "quranRefs": ["17:24"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-22-guard-your-words",
+      "section": "Devotionals",
+      "title": "Guarding our words",
+      "body": [
+        "This verse asks believers to avoid much suspicion, not to spy on each other, and not to speak about each other behind their backs. It ends by reminding us that Allah accepts repentance and is merciful.",
+        "Talking about others can feel harmless. It often starts as sharing news or letting off steam. But it can quietly damage trust, friendships and our own hearts.",
+        "A good rule is simple: speak about a person only as you would if she were in the room. And when you hear something, give the benefit of the doubt.",
+        "Reflect: In which conversations do you find it hardest to avoid talking about others?",
+        "Today: When a conversation turns toward someone who is not there, gently change the subject or say something good about her."
+      ],
+      "quranRefs": ["49:12"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-23-walk-gently",
+      "section": "Devotionals",
+      "title": "Walking gently",
+      "body": [
+        "This verse describes the servants of the Most Merciful. They walk on the earth gently, and when ignorant people speak to them harshly, they reply with peace.",
+        "It is a picture of calm strength. Not weak, not proud, just steady. They do not need to win every argument or answer every insult.",
+        "Online and in person, there are many chances each day to get pulled into anger. This verse offers another way: say peace and walk on. Choosing calm is not losing. It is keeping your heart for better things.",
+        "Reflect: Who or what tends to pull you into arguments you later regret?",
+        "Today: When someone speaks to you harshly, try answering with a calm word or choosing not to reply at all, and notice how it feels afterwards."
+      ],
+      "quranRefs": ["25:63"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-24-repel-with-good",
+      "section": "Devotionals",
+      "title": "Answering with good",
+      "body": [
+        "This verse tells us that good and bad are not equal, and to push back bad with what is better. Then the one who was your enemy may become like a close friend.",
+        "This is not easy. When someone hurts us, the natural reaction is to hurt back, or at least to go cold. The verse asks for something harder and better.",
+        "Answering with good does not mean letting people harm you. It means not letting their behaviour decide yours. Sometimes a kind act softens a heart that words never could.",
+        "Reflect: Is there a strained relationship in your life where a small kindness might change things?",
+        "Today: Do one good thing for that person, even something small like a warm greeting or a short dua for them."
+      ],
+      "quranRefs": ["41:34"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-25-restrain-anger",
+      "section": "Devotionals",
+      "title": "Holding back anger",
+      "body": [
+        "This verse describes people who give in good times and hard times, who hold back their anger, and who forgive people. It ends by saying Allah loves those who do good.",
+        "Anger is a normal feeling. The verse does not ask us never to feel it. It praises those who hold it back, who do not let it spill into words or actions they will regret.",
+        "Forgiving others does not mean pretending nothing happened. It means letting go of the need to get even, and trusting Allah with justice.",
+        "Reflect: What usually makes you angry fastest, and what helps you calm down?",
+        "Today: The next time you feel anger rising, pause, breathe, and say a word of remembrance before you respond."
+      ],
+      "quranRefs": ["3:134"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-26-increase-in-knowledge",
+      "section": "Devotionals",
+      "title": "Increase me in knowledge",
+      "body": [
+        "In this verse the Prophet is taught a short dua: my Lord, increase me in knowledge. It is the only thing in the Quran he is told to ask for more of in these words. [CHECK: confirm this commonly made point before keeping it.]",
+        "Knowledge in Islam is for everyone. The women around the Prophet asked questions, learned, and taught others. Learning about your faith is not only for scholars.",
+        "You do not need hours. One verse with its meaning, one hadith, one ruling you were unsure of. Small, steady learning adds up.",
+        "Reflect: What is one question about your faith you have always wanted answered?",
+        "Today: Make this dua, and spend ten minutes learning the answer to that question from a trusted source."
+      ],
+      "quranRefs": ["20:114"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-27-in-the-darkness",
+      "section": "Devotionals",
+      "title": "Calling from the dark",
+      "body": [
+        "The prophet Yunus left his people in anger and ended up inside the whale, in layers of darkness. From there he called out to Allah, declaring that there is no god but Him, glorifying Him, and admitting his own wrong.",
+        "His dua is short, humble and honest. He did not blame anyone else. He did not give up. He turned to Allah from the deepest place he had ever been.",
+        "Whatever dark place you may be in, you can still call from there. The next verse tells us Allah answered him and saved him from distress.",
+        "Reflect: Is there a mistake you need to own before you can move forward?",
+        "Today: Learn the dua of Yunus with its meaning, and say it with your heart several times today."
+      ],
+      "quranRefs": ["21:87"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-28-lighten",
+      "section": "Devotionals",
+      "title": "He wants it lighter for you",
+      "body": [
+        "This short verse says Allah wants to lighten things for you, and that people were created weak.",
+        "There is so much gentleness here. Allah knows we get tired, we forget, we struggle. He did not make us and then expect us to be machines. He made us weak, knowing it, and He made His guidance lighter for us because of it.",
+        "If you often feel you are failing at your faith, this verse is for you. Allah is not looking for reasons to make things heavy. He is looking for ways to make them lighter.",
+        "Reflect: Do you picture Allah as someone who wants ease for you, or someone who wants to catch your mistakes?",
+        "Today: Choose one act of worship you find heavy, and do the simplest valid version of it, sincerely."
+      ],
+      "quranRefs": ["4:28"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-29-strive",
+      "section": "Devotionals",
+      "title": "Guided by striving",
+      "body": [
+        "This verse says that those who strive for Allah will be guided to His ways, and that Allah is with those who do good.",
+        "Guidance is not only something we wait to receive. It grows as we move. Each small effort toward Allah opens the next step. You do not need to see the whole path to take the first step on it.",
+        "Striving can look very ordinary. Getting up for Fajr. Keeping a promise. Choosing patience. Learning a little more each week. None of it has to be big to count.",
+        "Reflect: What is one step toward Allah you have been putting off because you cannot see where it leads?",
+        "Today: Take that first small step today, and ask Allah to guide you to the next one."
+      ],
+      "quranRefs": ["29:69"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "devotional-30-good-in-both",
+      "section": "Devotionals",
+      "title": "Good in both worlds",
+      "body": [
+        "This verse holds one of the most loved duas in the Quran. It asks Allah for good in this world, good in the next, and protection from the Fire.",
+        "It is a balanced dua. It does not ask us to give up on this life, and it does not let us forget the next. It asks for good in both, and leaves it to Allah to decide what good looks like.",
+        "Many Muslims say this dua every day. It fits almost every situation: a new job, an illness, a marriage, a decision.",
+        "Reflect: What does good look like for you in this world, and what does it look like in the next?",
+        "Today: Make this dua at the end of each prayer today, thinking of one specific thing each time."
+      ],
+      "quranRefs": ["2:201"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+
+    {
+      "id": "patience-day-1",
+      "section": "Seven days of patience",
+      "title": "Day 1 · Help through patience and prayer",
+      "body": [
+        "This verse asks believers to seek help through patience and prayer, and then gives a quiet promise: Allah is with the patient.",
+        "Patience here is not just waiting. It is a source of help, something we lean on, just like prayer. And when we lean on it, we are not alone.",
+        "Over these seven days, we will look at patience from different sides. Start with this: whatever you are carrying, you are allowed to ask for help.",
+        "Reflect: What are you carrying right now that needs patience?",
+        "Today: Pray your next prayer a little more slowly than usual, and ask Allah for patience in your own words after it."
+      ],
+      "quranRefs": ["2:153"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "patience-day-2",
+      "section": "Seven days of patience",
+      "title": "Day 2 · Tests are part of life",
+      "body": [
+        "This verse says Allah will test us with some fear, hunger, and loss of wealth, lives and fruits, and then gives good news to the patient.",
+        "Tests are not a sign that something has gone wrong with your faith. They are part of every life, including the lives of the best people who ever lived.",
+        "Knowing this ahead of time does not take away pain, but it can take away the shock and the question of why me.",
+        "Reflect: Which test in your life has taught you the most?",
+        "Today: Write down one thing that hard test gave you that you would not have otherwise."
+      ],
+      "quranRefs": ["2:155"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "patience-day-3",
+      "section": "Seven days of patience",
+      "title": "Day 3 · We belong to Allah",
+      "body": [
+        "This verse describes what the patient say when something hard happens: we belong to Allah, and to Him we will return.",
+        "These words put loss in its place. Everything we have, our health, our people, our time, belongs to Allah first. And we are all on our way back to Him.",
+        "Saying them is not pretending to be fine. It is reminding the heart where it stands.",
+        "Reflect: What have you held on to as if it were only yours?",
+        "Today: Say these words the next time something goes wrong today, big or small, and pause for a breath after."
+      ],
+      "quranRefs": ["2:156"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "patience-day-4",
+      "section": "Seven days of patience",
+      "title": "Day 4 · Beautiful patience",
+      "body": [
+        "When the prophet Yaqub was told his son Yusuf was lost, he answered with beautiful patience, and said Allah is the One whose help is sought.",
+        "Beautiful patience is patience without bitterness or complaining to people. Yaqub felt deep grief. But he kept his dignity and kept turning to Allah.",
+        "It is possible to be heartbroken and patient at the same time.",
+        "Reflect: What would beautiful patience look like in your situation?",
+        "Today: Notice when you complain about your situation to others today, and try turning one of those complaints into a dua instead."
+      ],
+      "quranRefs": ["12:18"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "patience-day-5",
+      "section": "Seven days of patience",
+      "title": "Day 5 · Telling Allah your sorrow",
+      "body": [
+        "Years later, Yaqub was still grieving. He said that he only complains of his sorrow and grief to Allah.",
+        "Patience does not mean keeping everything inside. Yaqub poured out his grief. He just took it to the right place.",
+        "You can cry to Allah. You can tell Him exactly how hard it is. That is part of patience, not a failure of it.",
+        "Reflect: Have you told Allah how you truly feel, or only what you think you should feel?",
+        "Today: Find a private moment and tell Allah honestly about your sorrow, without holding back."
+      ],
+      "quranRefs": ["12:86"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "patience-day-6",
+      "section": "Seven days of patience",
+      "title": "Day 6 · Patience together",
+      "body": [
+        "Surah al-Asr describes the people who are not at a loss: those who believe, do good, and encourage each other to truth and to patience.",
+        "Patience is not meant to be a lonely effort. We help each other hold on. A friend who reminds you of Allah, a sister who checks in, a family member who sits with you.",
+        "And you can be that person for someone else.",
+        "Reflect: Who helps you stay patient, and who might need your encouragement now?",
+        "Today: Send a short, kind message to someone who is going through something hard."
+      ],
+      "quranRefs": ["103:3"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "patience-day-7",
+      "section": "Seven days of patience",
+      "title": "Day 7 · Patience is seen",
+      "body": [
+        "This verse ends with a promise: the patient will be given their reward without measure.",
+        "Much of patience is invisible. No one sees the tears held back, the sharp word not spoken, the long nights. But Allah sees all of it, and His reward for it has no limit.",
+        "As you finish these seven days, remember that patience is a skill that grows with practice. You do not need to be perfect at it.",
+        "Reflect: Looking back over this week, where did you grow in patience?",
+        "Today: Choose one patience practice from this week to keep doing, and ask Allah to help you keep it."
+      ],
+      "quranRefs": ["39:10"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+
+    {
+      "id": "gratitude-day-1",
+      "section": "Seven days of gratitude",
+      "title": "Day 1 · Starting with praise",
+      "body": [
+        "The Quran begins, after the Basmala, with praise: all praise belongs to Allah, Lord of all the worlds.",
+        "We say these words in every unit of every prayer. They are so familiar that we can say them without noticing. But they are a full statement of gratitude. Everything good comes from Him.",
+        "This week we will practise noticing His gifts.",
+        "Reflect: When you say Alhamdulillah, what are you usually thinking about?",
+        "Today: In your next prayer, pause briefly on these words in al-Fatihah and think of one thing you are grateful for."
+      ],
+      "quranRefs": ["1:2"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "gratitude-day-2",
+      "section": "Seven days of gratitude",
+      "title": "Day 2 · Too many to count",
+      "body": [
+        "This verse says that if you tried to count Allah's favours, you could not. It ends by saying Allah is Forgiving and Merciful.",
+        "We cannot count them, but we can start. Trying to count is itself a way of waking up to how much we have been given.",
+        "And it is comforting that the verse ends with forgiveness. Allah knows we will never thank Him enough.",
+        "Reflect: How many blessings can you name in two minutes?",
+        "Today: Set a timer for two minutes and write down every blessing you can think of."
+      ],
+      "quranRefs": ["16:18"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "gratitude-day-3",
+      "section": "Seven days of gratitude",
+      "title": "Day 3 · Speaking of His blessings",
+      "body": [
+        "The last verse of Surah ad-Duha tells the Prophet to speak of the favours of his Lord.",
+        "Gratitude is not only a feeling. It can be spoken. When we tell others about what Allah has given us, in a humble way, we remind ourselves and them of His kindness.",
+        "This is not boasting. It is giving credit where it is due.",
+        "Reflect: When something good happens to you, who do you usually credit?",
+        "Today: Tell someone about one good thing Allah has done for you recently, and thank Him for it out loud."
+      ],
+      "quranRefs": ["93:11"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "gratitude-day-4",
+      "section": "Seven days of gratitude",
+      "title": "Day 4 · Gratitude helps you",
+      "body": [
+        "Allah gave Luqman wisdom and told him to be grateful. Then the verse says whoever is grateful is grateful for their own good, and Allah is free of need.",
+        "Allah does not need our thanks. Gratitude is a gift to us. It changes how we see our lives, lifts our mood, and keeps us close to Him.",
+        "A grateful heart is often a lighter heart.",
+        "Reflect: How does your day feel different when you start it with gratitude?",
+        "Today: Before you get out of bed tomorrow morning, thank Allah for three things before you look at your phone."
+      ],
+      "quranRefs": ["31:12"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "gratitude-day-5",
+      "section": "Seven days of gratitude",
+      "title": "Day 5 · Asking for a grateful heart",
+      "body": [
+        "The prophet Sulayman heard an ant speak, smiled, and made a dua. He asked Allah to help him be grateful for the favours given to him and to his parents, and to do good that pleases Him.",
+        "Even a prophet with great power asked for help to be grateful. Gratitude does not always come easily. We can ask for it.",
+        "Notice too that he thanked Allah for what his parents were given. Our blessings often come through those before us.",
+        "Reflect: What did you receive through your parents or family that you are grateful for?",
+        "Today: Learn this dua with its meaning and make it after one of your prayers."
+      ],
+      "quranRefs": ["27:19"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "gratitude-day-6",
+      "section": "Seven days of gratitude",
+      "title": "Day 6 · Gratitude in action",
+      "body": [
+        "This verse tells the family of Dawud to work in gratitude, and then notes that few of Allah's servants are truly grateful.",
+        "Gratitude can be shown through work. Using our health to help others, our time to worship, our money to give, our skills to do good.",
+        "The verse gently invites us to be among the few.",
+        "Reflect: Which blessing could you use more fully as a way of thanking Allah?",
+        "Today: Use one of your gifts, a skill, some time, or some money, to help someone else today, as a thank you to Allah."
+      ],
+      "quranRefs": ["34:13"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "gratitude-day-7",
+      "section": "Seven days of gratitude",
+      "title": "Day 7 · More to come",
+      "body": [
+        "In this verse Allah says that if you are grateful, He will give you more.",
+        "Gratitude opens the door to more good. Not always more things, but often more peace, more contentment, and more ability to see what we already have.",
+        "As you finish this week, you have been practising a habit that the Quran ties to increase.",
+        "Reflect: What has changed in how you see your life this week?",
+        "Today: Choose one gratitude habit from this week to keep, such as thanking Allah for three things each morning."
+      ],
+      "quranRefs": ["14:7"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+
+    {
+      "id": "trust-day-1",
+      "section": "Seven days of trust in Allah",
+      "title": "Day 1 · He is enough",
+      "body": [
+        "This verse says that whoever relies on Allah, He is enough for them, and that He provides from where we do not expect.",
+        "Trust in Allah (tawakkul) does not mean doing nothing. It means doing what we can and then letting go of the outcome, knowing it is in good hands.",
+        "This week we will look at what it means to trust Him.",
+        "Reflect: What outcome are you trying hardest to control right now?",
+        "Today: Do your part for that one thing, then say out loud that you leave the rest to Allah."
+      ],
+      "quranRefs": ["65:3"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "trust-day-2",
+      "section": "Seven days of trust in Allah",
+      "title": "Day 2 · What you cannot see",
+      "body": [
+        "This verse says you may dislike something that is good for you, and love something that is bad for you. Allah knows, and you do not.",
+        "We see only a small part of the picture. A closed door, a delay, a plan that falls apart can feel like loss. Later we sometimes see how it protected us.",
+        "Trust is believing that Allah sees the whole picture, even when we cannot.",
+        "Reflect: Can you remember something you did not want that turned out to be good for you?",
+        "Today: Think of one current disappointment and ask Allah to show you the good in it, in His time."
+      ],
+      "quranRefs": ["2:216"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "trust-day-3",
+      "section": "Seven days of trust in Allah",
+      "title": "Day 3 · Your provision",
+      "body": [
+        "This verse says there is no creature on earth whose provision is not on Allah. He knows where it lives and where it rests.",
+        "Worry about money, work and the future is very real. This verse does not ask us to stop working. It reminds us who is truly in charge of provision.",
+        "Reflect: How much of your worry about provision is about today, and how much is about a future you cannot see?",
+        "Today: When money worries come up, do one practical thing and then make a short dua handing the rest to Allah."
+      ],
+      "quranRefs": ["11:6"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "trust-day-4",
+      "section": "Seven days of trust in Allah",
+      "title": "Day 4 · Decide, then trust",
+      "body": [
+        "This verse tells the Prophet to consult people, and once he has decided, to rely on Allah. It says Allah loves those who rely on Him.",
+        "There is a clear order here. First think, ask, and consult. Then decide. Then trust. Endless worrying after a decision is made does not help.",
+        "If you have done your part, you can rest.",
+        "Reflect: Is there a decision you have already made but keep worrying about?",
+        "Today: Pray istikharah or make a simple dua about that decision, then let it rest with Allah."
+      ],
+      "quranRefs": ["3:159"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "trust-day-5",
+      "section": "Seven days of trust in Allah",
+      "title": "Day 5 · He is our protector",
+      "body": [
+        "This verse says nothing will happen to us except what Allah has written for us. He is our protector, and believers rely on Him.",
+        "This is not meant to make us passive. It is meant to give us peace. What reaches us comes through the hands of the One who cares for us.",
+        "We still take care, plan and act. But we do not have to carry every outcome on our own shoulders.",
+        "Reflect: What fear would feel lighter if you truly believed Allah was your protector in it?",
+        "Today: Each time that fear comes up today, remind yourself that Allah is your protector."
+      ],
+      "quranRefs": ["9:51"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "trust-day-6",
+      "section": "Seven days of trust in Allah",
+      "title": "Day 6 · The Ever Living",
+      "body": [
+        "This verse tells us to rely on the Ever Living, who does not die, and to glorify Him with praise.",
+        "People we rely on can let us down, move away, fall ill, or pass away. That is part of being human. But Allah never changes and never leaves.",
+        "It is good to rely on people in healthy ways. But the deepest trust belongs to the One who will always be there.",
+        "Reflect: Is there a person you have been relying on in a way that only Allah can carry?",
+        "Today: Thank Allah for the people who support you, and ask Him to be your first support."
+      ],
+      "quranRefs": ["25:58"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    },
+    {
+      "id": "trust-day-7",
+      "section": "Seven days of trust in Allah",
+      "title": "Day 7 · Allah is enough for us",
+      "body": [
+        "This verse describes believers who were told to be afraid. Instead their faith grew, and they said that Allah is enough for them and He is the best one to rely on.",
+        "Fear will come. Bad news will come. The question is what we say when it does. These believers turned to Allah, and their faith grew stronger.",
+        "As you finish this week, you have practised trust in small ways. Keep it going.",
+        "Reflect: What do you want to say to yourself the next time fear comes?",
+        "Today: Learn the words these believers said with their meaning, and say them whenever you feel anxious."
+      ],
+      "quranRefs": ["3:173"],
+      "hadithRefs": [],
+      "author": "Draft for scholar review",
+      "reviewer": null,
+      "reviewedOn": null,
+      "status": "draft"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quran for Women</string>
+    <string name="widget_name">Verse of the day</string>
+    <string name="widget_description">Today\'s verse, in Arabic and your language</string>
+    <string name="widget_dua_name">Dua of the day</string>
+    <string name="widget_dua_description">A dua from the Quran or Sunnah each day</string>
+    <string name="widget_prayer_name">Next prayer</string>
+    <string name="widget_prayer_description">The next prayer and today\'s times</string>
+    <string name="widget_progress_name">Reading progress</string>
+    <string name="widget_progress_description">Surahs finished and your reading plan</string>
+    <string name="widget_dhikr_name">Dhikr</string>
+    <string name="widget_dhikr_description">Your dhikr count for today</string>
+    <string name="channel_prayer">Prayer times</string>
+    <string name="channel_reminders">Reminders</string>
+    <string name="channel_playback">Recitation</string>
+</resources>
